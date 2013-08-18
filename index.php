@@ -6,8 +6,8 @@
     <meta name="description" content="The Plugin Bay ftw">
     <meta name="keywords" content="bukkit, plugin, bukkitdev">
     <!--[if lt IE 9]>
-        <link rel="stylesheet" href="//static.thepiratebay.se/css5/ie.css">
-        <script src="//static.thepiratebay.se/js/html5_for_ie.js"></script>
+        <link rel="stylesheet" href="//static.thepiratebay.sx/css5/ie.css">
+        <script src="//static.thepiratebay.sx/js/html5_for_ie.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="main.css">
 </head>
@@ -28,22 +28,22 @@
         </p>
         <p id="chb">
             <label title="All"><input type="radio" name="category" value="None" checked>All</label>
-            <label title="Admin Tools"><input type="radio" name="category" value="1">Admin Tools</label>
-            <label title="Fun"><input type="radio" name="category" value="2">Fun</label>
-            <label title="General"><input type="radio" name="category" value="3">General</label>
-            <label title="Informational"><input type="radio" name="category" value="4">Informational</label>
-            <label title="Miscellaneous"><input type="radio" name="category" value="5">Miscellaneous</label>
-            <label title="Teleportation"><input type="radio" name="category" value="6">Teleportation</label>
-            <label title="Mechanics"><input type="radio" name="category" value="7">Mechanics</label><br />
-            <label title="Chat Related"><input type="radio" name="category" value="8">Chat Related</label>
-            <label title="Role Playing"><input type="radio" name="category" value="9">Role Playing</label>
-            <label title="Economy"><input type="radio" name="category" value="11">Economy</label>
-            <label title="Anti-Griefing Tools"><input type="radio" name="category" value="12">Anti-Griefing Tools</label>
-            <label title="World Editing and Management"><input type="radio" name="category" value="13">World Editing and Management</label><br />
-            <label title="Developer Tools"><input type="radio" name="category" value="14">Developer Tools</label>
-            <label title="Fixes"><input type="radio" name="category" value="15">Fixes</label>
-            <label title="World Generators"><input type="radio" name="category" value="19">World Generators</label>
-            <label title="Website Administration"><input type="radio" name="category" value="22">Website Administration</label>
+            <label title="Admin Tools"><input type="radio" name="category" value="58">Admin Tools</label>
+            <label title="Fun"><input type="radio" name="category" value="59">Fun</label>
+            <label title="General"><input type="radio" name="category" value="72">General</label>
+            <label title="Informational"><input type="radio" name="category" value="64">Informational</label>
+            <label title="Miscellaneous"><input type="radio" name="category" value="68">Miscellaneous</label>
+            <label title="Teleportation"><input type="radio" name="category" value="69">Teleportation</label>
+            <label title="Mechanics"><input type="radio" name="category" value="60">Mechanics</label><br />
+            <label title="Chat Related"><input type="radio" name="category" value="62">Chat Related</label>
+            <label title="Role Playing"><input type="radio" name="category" value="66">Role Playing</label>
+            <label title="Economy"><input type="radio" name="category" value="63">Economy</label>
+            <label title="Anti-Griefing Tools"><input type="radio" name="category" value="65">Anti-Griefing Tools</label>
+            <label title="World Editing and Management"><input type="radio" name="category" value="70">World Editing and Management</label><br />
+            <label title="Developer Tools"><input type="radio" name="category" value="73">Developer Tools</label>
+            <label title="Fixes"><input type="radio" name="category" value="67">Fixes</label>
+            <label title="World Generators"><input type="radio" name="category" value="71">World Generators</label>
+            <label title="Website Administration"><input type="radio" name="category" value="61">Website Administration</label>
         </p>
         <p id="subm">
             <input type="submit" title="Plugin Search" value="Plugin Search" accesskey="s">
@@ -55,7 +55,7 @@
     <nav>
     <a href="http://forums.bukkit.org/pages/about-us/" title="About Bukkit">About Bukkit</a> |
     <a href="/about.html" title="About this site">About this site</a> |
-    <a href="http://tpb.zyte.com.au" title="The Pirate Bay">The Pirate Bay</a>
+    <a href="https://thepiratebay.sx" title="The Pirate Bay">The Pirate Bay</a>
     </nav>
     <div id="icons">
               <script language="Javascript" src="counter.php?page=index"></script> hits<br />
